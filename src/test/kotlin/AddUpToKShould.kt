@@ -1,9 +1,9 @@
 package test.kotlin
 
 import main.kotlin.AddUpToK
+import org.junit.jupiter.api.Assertions.assertFalse
+import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test
-import kotlin.test.assertFalse
-import kotlin.test.assertTrue
 
 /**
     Good morning! Here's your coding interview problem for today.

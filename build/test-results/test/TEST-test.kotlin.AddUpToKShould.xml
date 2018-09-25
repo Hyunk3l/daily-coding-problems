@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.kotlin.AddUpToKShould" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-09-25T22:38:35" hostname="AFE0806039.local" time="0.036">
+  <properties/>
+  <testcase name="return false if k is not in a small list of numbers()" classname="test.kotlin.AddUpToKShould" time="0.025"/>
+  <testcase name="return true if k is by a sum of two numbers in a small list of numbers()" classname="test.kotlin.AddUpToKShould" time="0.002"/>
+  <testcase name="return true if k is by a sum of two numbers in a big list of numbers()" classname="test.kotlin.AddUpToKShould" time="0.001"/>
+  <testcase name="return true if k is by a sum of two numbers in a list of numbers()" classname="test.kotlin.AddUpToKShould" time="0.002"/>
+  <testcase name="return true if k is in a small list of numbers()" classname="test.kotlin.AddUpToKShould" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
